@@ -7,7 +7,7 @@ This is a simple automation script using Puppeteer. Its primary function is to l
 1. Clone the repo
 
 ```
-git clone https://github.com/maybe-finance/maybe.git
+git clone https://github.com/mrgodhani/wsimpleexport.git
 ```
 
 2. Copy example env file
