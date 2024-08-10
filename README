@@ -11,6 +11,7 @@ git clone https://github.com/maybe-finance/maybe.git
 ```
 
 2. Copy example env file
+
 ```
 cp .env.example .env
 ```
