@@ -7,9 +7,11 @@
   "dependencies": {
     "@inquirer/prompts": "^5.3.8",
     "csv-stringify": "^6.5.1",
+    "d3-dsv": "^2.0.0",
     "dayjs": "^1.11.12",
     "delay": "^6.0.0",
     "dotenv": "^16.4.5",
+    "langchain": "^0.2.15",
     "ora": "^8.0.1",
     "puppeteer": "^22.15.0",
     "puppeteer-extra": "^3.3.6",
